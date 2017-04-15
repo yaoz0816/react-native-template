@@ -1,4 +1,4 @@
-# reactnative
-rn+antd+dva
-###localStorage
-###FlatList
+# reactnativedemo
+rn + antd-mobile + dva
+localStorage
+FlatList
