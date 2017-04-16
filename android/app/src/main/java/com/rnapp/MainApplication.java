@@ -1,4 +1,4 @@
-package com.rn_antd_dva;
+package com.rnapp;
 
 import android.app.Application;
 
