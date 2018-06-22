@@ -1,3 +1,3 @@
-# reactnativedemo
-rn + antd-mobile + dva
+##基于RN电商模版
+
 
